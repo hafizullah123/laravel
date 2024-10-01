@@ -70,7 +70,7 @@
                         Portfolio
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <li><a class="dropdown-item" href="#">Action 1</a></li>
+                        <li><a class="dropdown-item" href="portfolio.blade.php">completed project</a></li>
                         <li><a class="dropdown-item" href="#">Action 2</a></li>
                         <li><a class="dropdown-item" href="#">Action 3</a></li>
                     </ul>
